@@ -22,5 +22,3 @@ Proyecto / Trabajo Final Arquitectura de Computadoras 1
 - *git push origin < nombre de tu rama>*, una luego de commit, si queres subir los cambios al repositorio remoto (github)
 
 no deberia ser necesario mas.
- 
-
