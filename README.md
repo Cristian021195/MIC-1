@@ -11,6 +11,7 @@ Proyecto / Trabajo Final Arquitectura de Computadoras 1
 
 *Al finalizar  de editar se junta todo en una sola maquina y se corrobora en grupo, luego se sube o presenta*
 
+
 ### COMANDOS BASICOS A USAR
 - *git clone < direcion del repo >* , para clonar repositorio en tu maquina local
 - *git branch* , para listar todos los repositorios
