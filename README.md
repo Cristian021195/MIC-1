@@ -21,6 +21,8 @@ Proyecto / Trabajo Final Arquitectura de Computadoras 1
 - *git commit -m "< mensaje de commit entre comillas >"*, una vez agregado tus cambios hace la captura de ese momento, de esta manera tenes versionado los cambios que hagas.
 - *git push origin < nombre de tu rama>*, una luego de commit, si queres subir los cambios al repositorio remoto (github)
 
+- https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/10-gates/60-barrel/shifter8.html
+
 no deberia ser necesario mas.
  
 
